@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "StudentBooks": {
+            "applicationId": "OAA8HWCUMsh9zyKM3iU9lTdXyoYWorvnc4WcLWAP", 
+            "masterKey": "d5Xo4HkT8LypicBIzMDvhF8SwSgVZlsSTkNd0lPM"
+        }, 
+        "_default": {
+            "link": "StudentBooks"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.4"
+    }
+}
